@@ -1,6 +1,6 @@
 # My Course Portfolio
 
-Welcome to my academic portfolio for CEP146-NAA!
+Welcome to my academic portfolio for CEP146 NAA!
 
 ## About Me
 - Name: Kelly Yip
