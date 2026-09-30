@@ -15,4 +15,4 @@ Welcome to my academic portfolio for CEP146 NAA!
 - [ ] Collaborate on group projects
 
 ## Projects
-*This section will be updated as I complete assignments
+*This section will be updated as I complete assignments*
